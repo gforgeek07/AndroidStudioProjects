@@ -6,6 +6,13 @@
 	"courseCount": 4,
 	"isVerified": true
 },
+	{
+	"name": "Saket",
+	"email": "Saket@saket.com",
+	"contact":708892822",
+	"courseCount": 3,
+	"isVerified": true
+},
 {
 	"name": "Mark",
 	"email": "mark@example.com",
